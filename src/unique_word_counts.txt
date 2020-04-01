@@ -1,0 +1,6 @@
+Okay: 1
+Hi: 1
+Java: 1
+Hello: 2
+Cool: 1
+Wow: 2
